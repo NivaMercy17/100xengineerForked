@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArtfulStitchesKe - Handcrafted Crochet Products</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            color: black;
+        }
+        header {
+            background-color: black;
+            color: gold;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            color: gold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .product {
+            border: 1px solid black;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: black;
+            color: gold;
+            padding: 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+	<div class="container">
+        <h1>Welcome to ArtfulStitchesKe</h1>
+        <p>Handcrafted Crochet Products from Nairobi, Kenya</p>
+        <p>For inquiries, call us at: <a href="tel:+254700645031">+254 700 645 031</a></p>
+    </header>
+    <div class="container">
+        <h2>Our Products</h2>
+        <div class="product">
+            <h3>Yarn Bottles - Ksh 500</h3>
+        </div>
+        <div class="product">
+            <h3>Adult Crochet Ponchos - Ksh 2500</h3>
+        </div>
+        <div class="product">
+            <h3>Baby Crochet Ponchos - Ksh 1000</h3>
+        </div>
+        <div class="product">
+            <h3>Crochet Baby Sweater - Ksh 500</h3>
+        </div>
+        <div class="product">
+            <h3>Crochet Baby Trouser - Ksh 500</h3>
+        </div>
+        <div class="product">
+            <h3>Crochet Baby Mavin - Ksh 150</h3>
+        </div>
+        <div class="product">
+            <h3>Adult Crochet Mavin - Ksh 250</h3>
+        </div>
+        <div class="product">
+            <h3>Crochet Scarves - Ksh 500 to Ksh 1000</h3>
+        </div>
+        <div class="product">
+            <h3>Crochet Handbags - Ksh 1500</h3>
+        </div>
+    </div>
+    <footer>
+        <p>ArtfulStitchesKe &copy; 2024 | Nairobi, Kenya | <a href="tel:+254700645031">+254 700 645 031</a></p>
+    </footer>
+</body>
+</html>
